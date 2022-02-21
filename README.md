@@ -23,4 +23,4 @@ Data are not public and protected by NDA.
 * [Paolo Gerosa](https://github.com/PaoloGerosa)
 * [Lupo Marsigli](https://github.com/LupoMarsigli)
 * [Francesco Romeo](https://github.com/fraromeo)
-* [Sebastiano Rossi]
+* Sebastiano Rossi
