@@ -1,4 +1,4 @@
-# Chemotherapy Associated Liver Injuries Analysis
+# Heterogeneity assessment for chemotherapy-injured liver in patients with colorectal cancer
 
 Patients affected by colorectal cancer produce colorectal liver metastasis and undergo systemic chemotherapy; threfore they can develop Chemotherapy Associated Liver Injuries (CALI). 
 
